@@ -17,8 +17,8 @@ body{
 .header{
     width: 380px;
     height:200px;
-    background-image: url('../img/bg2.jpg');
-    background-size: 100% 200%;
+    background-image: url('../img/todo1.jpg');
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0 0;
     position: relative;
@@ -43,9 +43,9 @@ body{
     position: absolute;
     bottom: 10px;
     left: 10px;
-    color: #FFF;
+    color: black;
     font-size: 25px;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 /* ------------ content ------------ */
@@ -92,7 +92,7 @@ body{
     margin:0;
     font-size: 20px;
     left:50px;
-    top:5px;
+    top:10px;
     background-color: #FFF;
     max-width:285px;
 }

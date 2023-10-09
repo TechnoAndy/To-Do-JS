@@ -8,7 +8,7 @@ const input = document.getElementById("input");
 
 // Classes names
 const CHECK = "fa-check-circle";
-const UNCHECK = "fa-circle";
+const UNCHECK = "fa-circle-thin";
 const LINE_THROUGH = "lineThrough";
 
 // Variables
