@@ -56,8 +56,8 @@ body{
     background-color: #FFF;
     overflow: auto;
 }
-.content::-webkit-scrollbar { 
-    display: none; 
+.content::-webkit-scrollbar {
+    display: none;
 }
 .content ul{
     padding:0;
@@ -107,7 +107,7 @@ body{
     top:10px;
 }
 .item i.de:hover{
-    color:#af0000;
+    color:red;
     cursor: pointer;
 }
 /* ------------ add item ------------ */
