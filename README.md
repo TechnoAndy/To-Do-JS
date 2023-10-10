@@ -17,3 +17,7 @@ A simple implementation of a To-Do List using JavaScript, HTML, and CSS.
 
    ```bash
    git clone https://github.com/TechnoAndy/To-Do-JS
+
+## Acknowledgments
+
+- Code Explained for the amazing video tutorials, check out the videos here https://www.youtube.com/@CodeExplained. 
